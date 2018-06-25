@@ -7,4 +7,4 @@ Estudiantes:
 Jessica Barón MartíneZ
 Nelson Andrés Rozo Cruz
 Wilfredo David Vega Buelvas
-Camilo Torres OvallE
+Camilo Torres Ovall
